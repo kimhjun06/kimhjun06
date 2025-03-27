@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hi there, I'm hyeongjun!
 
-<!--
-**kimhjun06/kimhjun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- Computer Science at Halla Universe
+- Interested in AI, and Software Development
+- Passionate about problem-solving and building useful applications
+- currently learning C and C++, while exploring various programming paradigms
 
-Here are some ideas to get you started:
+Tech Stack
+- Languages : C, C++, Python, JS
+- Frameworks & Libraries : Node.js
+- Tools & Platforms : Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me
+- Email : kimhjun06@gmail.com
