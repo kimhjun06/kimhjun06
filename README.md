@@ -7,9 +7,9 @@ About Me
 - currently learning C and C++, while exploring various programming paradigms
 
 Tech Stack
-- Languages : C, C++, Python, JS
-- Frameworks & Libraries : Node.js
-- Tools & Platforms : Git, GitHub, VS Code
+- Languages : Python, C, JS, C++
+- Frameworks : Flask, Bootstrap, Express.js, 
+- Tools & Platforms : VS Code, GitHub, Visual Studio, Git
 
 Contact Me
 - Email : kimhjun06@gmail.com
