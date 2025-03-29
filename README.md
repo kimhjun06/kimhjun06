@@ -1,15 +1,7 @@
 ## 👋 Hi there, I'm hyeongjun!
 
 About Me
-- Computer Science at Halla Universe
-- Interested in AI, and Software Development
-- Passionate about problem-solving and building useful applications
-- currently learning C and C++, while exploring various programming paradigms
-
-Tech Stack
-- Languages : Python, C, JS, C++
-- Frameworks : Flask, Bootstrap, Express.js, 
-- Tools & Platforms : VS Code, GitHub, Visual Studio, Git
-
-Contact Me
+- Name : Hyungjun Kim
 - Email : kimhjun06@gmail.com
+- Computer Engineering at Halla University (2025.03 - )
+  - COSE 동아리 가입
